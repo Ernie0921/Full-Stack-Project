@@ -1,4 +1,4 @@
-# Full-Stack-project-
+# Inventory App
 Inventory app
 <!-- TABLE OF CONTENTS -->
 <details open="open">
